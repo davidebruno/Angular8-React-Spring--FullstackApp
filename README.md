@@ -52,6 +52,6 @@ The application starts running the command line:
      
 Once started you can open the browser at http://localhost:3000/
 
-Below is the demo executing CRUD operations
+Below is the demo executing CRUD operations:
 
 <img src="https://user-images.githubusercontent.com/29027414/77264437-9e034800-6c9a-11ea-9ab8-4c01b391e099.gif" />
