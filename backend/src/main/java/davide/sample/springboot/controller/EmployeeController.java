@@ -23,7 +23,7 @@ import davide.sample.springboot.exception.ResourceNotFoundException;
 import davide.sample.springboot.model.Employee;
 import davide.sample.springboot.repository.EmployeeRepository;
 
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:4200", "http://localhost:3000"})
 @RestController
 @RequestMapping("/api/v1")
 public class EmployeeController {
