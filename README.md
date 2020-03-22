@@ -6,7 +6,8 @@ The Backend is built using Spring Boot 2, Data, Hibernate 5, H2 Database, the pr
 
 The Frontend applications execute Create, Read, Update and Delete (CRUD), those operations are executed following the best practice of RESTful API therefore following the convention as below specified:
 
-  Http Method     Operation  
+  Http Method      Operation
+  
       GET     ->    READ
       POST    ->    CREATE
       PUT     ->    UPDATE
@@ -38,7 +39,8 @@ Sample Demo running the App that performs CRUD operations
 
 The React App uses the same back end as the Angular App, the data on which the CRUD operations are First Name, Last Name and EmailId, on these fields both the Frontend applications execute Create, Read, Update and Delete (CRUD), those operations are executed following the best practice of RESTful API therefore following the convention as below specified:
 
-  Http Method     Operation  
+  Http Method     Operation
+  
       GET     ->    READ
       POST    ->    CREATE
       PUT     ->    UPDATE
